@@ -1,0 +1,14 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Unit 12 homework - Node.js &amp; MySQL",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
